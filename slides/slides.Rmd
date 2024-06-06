@@ -854,9 +854,7 @@ Can execute/schedule RMarkdown for all sorts of things like:
 
 .pull-right[
 
-```{r, echo = FALSE, out.width="60%"}
-knitr::include_graphics("rsc.png")
-```
+
 
 ]
 
